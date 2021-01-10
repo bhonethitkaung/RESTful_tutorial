@@ -1,0 +1,9 @@
+package org.studyeasy.showroom.hibernate.DAO;
+
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+public class ProductsDAO {
+	SessionFactory factory = new Configuration().configure("hibernate.cfg.xml").addAnnotatedClass(ProductEntity.class).buildSessionFactory();
+	
+}

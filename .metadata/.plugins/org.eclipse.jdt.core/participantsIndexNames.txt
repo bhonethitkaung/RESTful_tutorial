@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\User\Full Stack Java Tutorials\Restful tutorial\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\234323905.index
+\restapp\src\main\java
+C:\Users\User\Full Stack Java Tutorials\Restful tutorial\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1143344243.index
+\test\src\main\java
+C:\Users\User\Full Stack Java Tutorials\Restful tutorial\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3601317366.index
+\AlternateMavenProjectSetup\src\main\java
+C:\Users\User\Full Stack Java Tutorials\Restful tutorial\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2355673937.index
+\AlternateMavenProject\src\main\resources

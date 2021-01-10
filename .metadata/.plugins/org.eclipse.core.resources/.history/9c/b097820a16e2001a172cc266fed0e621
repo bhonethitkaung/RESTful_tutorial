@@ -1,0 +1,13 @@
+package org.studyeasy.showroom.hibernate.DAO;
+
+import java.util.List;
+
+import org.studyeasy.showroom.hibernate.entities.BrandEntity;
+
+public class BrandsDAO {
+
+	public List<BrandEntity> getBrands() {
+		return null;
+	}
+	
+}

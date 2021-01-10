@@ -1,0 +1,11 @@
+package org.studyeasy;
+
+import javax.ws.rs.Path;
+
+@Path("/nice")
+public class App {
+
+	public String demo() {
+		return "this is demo";
+	}
+}

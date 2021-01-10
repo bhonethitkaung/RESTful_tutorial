@@ -1,0 +1,5 @@
+package org.studyeasy.showroom.hibernate.entities;
+
+public class ProductEntity {
+
+}

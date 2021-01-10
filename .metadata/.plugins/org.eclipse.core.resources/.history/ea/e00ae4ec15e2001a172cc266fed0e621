@@ -1,0 +1,5 @@
+package org.studyeasy.showroom.hibernate.DAO;
+
+public class BrandsDAO {
+
+}

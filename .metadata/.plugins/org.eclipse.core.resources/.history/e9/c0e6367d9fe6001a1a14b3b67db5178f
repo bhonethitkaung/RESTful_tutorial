@@ -1,0 +1,24 @@
+package org.studyeasy;
+
+import javax.ws.rs.ext.ParamConverter;
+
+public class CurrencyParamConverter implements ParamConverter<Currency>{
+
+	@Override
+	public Currency fromString(String code) {
+		Currency currency = null;
+		switch(code) {
+		case "eur":
+			currency = new Currency(code, "eur");
+			break;
+		}
+		return null;
+	}
+
+	@Override
+	public String toString(Currency value) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

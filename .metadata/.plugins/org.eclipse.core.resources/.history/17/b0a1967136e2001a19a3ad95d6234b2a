@@ -1,0 +1,9 @@
+package org.studyeasy.showroom.hibernate.entities;
+
+public class ProductEntity {
+	int productId;
+	int brandId;
+	String productName;
+	String category;
+	String cost;
+}

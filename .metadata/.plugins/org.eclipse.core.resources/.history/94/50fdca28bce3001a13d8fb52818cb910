@@ -1,0 +1,10 @@
+package org.studyeasy.showroom.hibernate.entities;
+
+public class Snippet {
+	@GET
+		@Produces(MediaType.TEXT_PLAIN)
+		public String usefulAnnotations() {
+			return "Hello JAX-RS";
+		}
+}
+

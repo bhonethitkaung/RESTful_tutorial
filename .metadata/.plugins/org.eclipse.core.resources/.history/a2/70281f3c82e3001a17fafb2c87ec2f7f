@@ -1,0 +1,11 @@
+package org.studyeasy.showroom.resources;
+
+import javax.ws.rs.Path;
+
+@Path("/")
+public class Demo {
+	
+	public String usefulAnnotations() {
+		return null;
+	}
+}

@@ -1,0 +1,16 @@
+package org.studyeasy.showroom.services;
+
+import java.util.List;
+
+import org.studyeasy.showroom.hibernate.entities.BrandEntity;
+import org.studyeasy.showroom.hibernate.entities.ProductEntity;
+
+public class ProductsService {
+
+	public List<ProductEntity> getProductsByBrand(int brandId) {
+		
+		
+		return null;
+	}
+
+}

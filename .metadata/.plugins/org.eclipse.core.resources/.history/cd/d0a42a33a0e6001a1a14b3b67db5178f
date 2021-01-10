@@ -1,0 +1,5 @@
+package org.studyeasy.converters;
+
+public class CurencyParamConverterProvider {
+
+}

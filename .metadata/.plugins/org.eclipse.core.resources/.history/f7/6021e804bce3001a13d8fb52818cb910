@@ -1,0 +1,5 @@
+package org.studyeasy.showroom.model;
+
+public class ErrorPayload {
+
+}

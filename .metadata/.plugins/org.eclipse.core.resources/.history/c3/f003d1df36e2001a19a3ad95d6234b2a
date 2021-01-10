@@ -1,0 +1,16 @@
+package org.studyeasy.showroom.hibernate.entities;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity(name = "products")
+@Table(name = "products")
+
+public class ProductEntity {
+	
+	int productId;
+	int brandId;
+	String productName;
+	String category;
+	String cost;
+}
